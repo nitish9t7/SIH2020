@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+		INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+		ADDED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:1:1-8:12
+		INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+		ADDED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:1:1-8:12
+		INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:2:5-63
+application
+ADDED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:5:5-7:43
+	android:label
+		ADDED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml:6:9-35
+uses-sdk
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+		ADDED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+		INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+		ADDED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml
+		INJECTED from /root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/AndroidManifest.xml

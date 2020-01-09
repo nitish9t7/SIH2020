@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291748900382",
+    "firebase_url": "https://crop-predictor-android.firebaseio.com",
+    "project_id": "crop-predictor-android",
+    "storage_bucket": "crop-predictor-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291748900382:android:cf729e4cdb8d8d2a2c080f",
+        "android_client_info": {
+          "package_name": "app.cropPredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291748900382-eg3bae0lt3tgo7e55u0q8p5fe235bn13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cropPredictor",
+            "certificate_hash": "2bce5781944d2d258c4f7e00bb48b761af09a74a"
+          }
+        },
+        {
+          "client_id": "291748900382-9pct0lil1keso2qel6q975p9kpgp09dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSo4utoWe7lHs7jky08w0uAWvd5NOMbvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291748900382-9pct0lil1keso2qel6q975p9kpgp09dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

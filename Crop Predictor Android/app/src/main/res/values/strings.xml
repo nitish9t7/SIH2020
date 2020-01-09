@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Crop Predictor</string>
+
+    <string name="hello_blank_fragment">This is the main fragment</string>
+    <string name="prompt_exit">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <color name="textInputLayout">#96ffffff</color>
+    <array name="menuOptions">
+        <item>Home</item>
+        <item>Results</item>
+        <item>Settings</item>
+        <item>About</item>
+    </array>
+</resources>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3c2f0f8-ceff-4ad7-8ea3-bf50d9ae6c3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/app/cropPredictor/MainFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/nl/psdcompany/duonavigationdrawer/example/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/nl/psdcompany/duonavigationdrawer/example/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/cropPredictor/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/nl/psdcompany/duonavigationdrawer/example/MainFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/nl/psdcompany/duonavigationdrawer/example/MenuAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/app/cropPredictor/MenuAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/nl/psdcompany/duonavigationdrawer/example/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/MENU_VIEW.md" beforeDir="false" afterPath="$PROJECT_DIR$/dev/MENU_VIEW.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/duo-navigation-drawer/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/src/androidTest/java/nl/psdcompany/duonavigationdrawer/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/duo-navigation-drawer/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/views/DuoDrawerLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/duo-navigation-drawer/src/main/java/duonavigationdrawer/views/DuoDrawerLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/views/DuoMenuView.java" beforeDir="false" afterPath="$PROJECT_DIR$/duo-navigation-drawer/src/main/java/duonavigationdrawer/views/DuoMenuView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/views/DuoOptionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/duo-navigation-drawer/src/main/java/duonavigationdrawer/views/DuoOptionView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/widgets/DuoDrawerToggle.java" beforeDir="false" afterPath="$PROJECT_DIR$/duo-navigation-drawer/src/main/java/duonavigationdrawer/widgets/DuoDrawerToggle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/widgets/DuoDrawerToggleHoneycomb.java" beforeDir="false" afterPath="$PROJECT_DIR$/duo-navigation-drawer/src/main/java/duonavigationdrawer/widgets/DuoDrawerToggleHoneycomb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/src/main/res/layout/duo_view_footer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/duo-navigation-drawer/src/main/res/layout/duo_view_footer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/src/main/res/layout/duo_view_header.xml" beforeDir="false" afterPath="$PROJECT_DIR$/duo-navigation-drawer/src/main/res/layout/duo_view_header.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duo-navigation-drawer/src/test/java/nl/psdcompany/duonavigationdrawer/ExampleUnitTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_24" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W4XaKsLtrDagUTmQsReKKxHaKw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-view/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/duonavigationdrawer/views/DuoDrawerLayout.java_SELECTED" value="DuoDrawerLayout" />
+    <property name="android-custom-view/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/duonavigationdrawer/views/DuoMenuView.java_SELECTED" value="DuoMenuView" />
+    <property name="android-custom-view/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/duonavigationdrawer/views/DuoOptionView.java_SELECTED" value="DuoOptionView" />
+    <property name="android-custom-view/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/views/DuoDrawerLayout.java_SELECTED" value="DuoDrawerLayout" />
+    <property name="android-custom-view/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/views/DuoMenuView.java_SELECTED" value="DuoMenuView" />
+    <property name="android-custom-view/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/views/DuoOptionView.java_SELECTED" value="DuoOptionView" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/duo-navigation-drawer/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/font" />
+    <property name="multi-representation-preview/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/duonavigationdrawer/views/DuoDrawerLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/duonavigationdrawer/views/DuoMenuView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/duonavigationdrawer/views/DuoOptionView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/views/DuoDrawerLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/views/DuoMenuView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/root/Documents/SIH2020/Crop Predictor Android/duo-navigation-drawer/src/main/java/nl/psdcompany/duonavigationdrawer/views/DuoOptionView.java_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/duo-navigation-drawer/src/main/res/drawable-xxhdpi" />
+      <recent name="$PROJECT_DIR$/duo-navigation-drawer/src/main/res/drawable" />
+    </key>
+    <key name="android.template.-158445315">
+      <recent name="app.cropPredictor" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="app.cropPredictor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/font" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3c2f0f8-ceff-4ad7-8ea3-bf50d9ae6c3e" name="Default Changelist" comment="" />
+      <created>1578409902501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578409902501</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578410298154">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="418" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1021@0.27.1920.1021" timestamp="1578410298154" />
+    <state x="768" y="249" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1578515658520">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="768" y="249" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1021@0.27.1920.1021" timestamp="1578515658520" />
+    <state x="692" y="323" width="525" height="436" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578414290931">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="692" y="323" width="525" height="436" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1021@0.27.1920.1021" timestamp="1578414290931" />
+    <state x="542" y="413" width="1197" height="172" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578508161105">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="542" y="413" width="1197" height="172" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.1920.1021@0.27.1920.1021" timestamp="1578508161105" />
+    <state x="693" y="286" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578415380554">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="693" y="286" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1021@0.27.1920.1021" timestamp="1578415380554" />
+    <state x="543" y="295" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1578411854378">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="543" y="295" width="824" height="491" key="AndroidCreateResourceFileDialog/0.27.1920.1021@0.27.1920.1021" timestamp="1578411854378" />
+    <state x="770" y="352" width="379" height="378" key="AndroidCreateXmlResourceDialog" timestamp="1578515186221">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="770" y="352" width="379" height="378" key="AndroidCreateXmlResourceDialog/0.27.1920.1021@0.27.1920.1021" timestamp="1578515186221" />
+    <state x="1070" y="308" key="Downloadable.Font.Dialog.Size" timestamp="1578512747964">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="1070" y="308" key="Downloadable.Font.Dialog.Size/0.27.1920.1021@0.27.1920.1021" timestamp="1578512747964" />
+    <state x="721" y="280" width="467" height="522" key="FileChooserDialogImpl" timestamp="1578512963742">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="721" y="280" width="467" height="522" key="FileChooserDialogImpl/0.27.1920.1021@0.27.1920.1021" timestamp="1578512963742" />
+    <state width="1001" height="265" key="GridCell.Tab.0.bottom" timestamp="1578551784111">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state width="1001" height="265" key="GridCell.Tab.0.bottom/0.27.1920.1021@0.27.1920.1021" timestamp="1578551784111" />
+    <state width="1001" height="265" key="GridCell.Tab.0.center" timestamp="1578551784110">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state width="1001" height="265" key="GridCell.Tab.0.center/0.27.1920.1021@0.27.1920.1021" timestamp="1578551784110" />
+    <state width="1001" height="265" key="GridCell.Tab.0.left" timestamp="1578551784110">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state width="1001" height="265" key="GridCell.Tab.0.left/0.27.1920.1021@0.27.1920.1021" timestamp="1578551784110" />
+    <state width="1001" height="265" key="GridCell.Tab.0.right" timestamp="1578551784110">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state width="1001" height="265" key="GridCell.Tab.0.right/0.27.1920.1021@0.27.1920.1021" timestamp="1578551784110" />
+    <state x="667" y="410" width="585" height="261" key="ScreenshotRecorder.Options.Dimensions" timestamp="1578410385884">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="667" y="410" width="585" height="261" key="ScreenshotRecorder.Options.Dimensions/0.27.1920.1021@0.27.1920.1021" timestamp="1578410385884" />
+    <state x="732" y="317" width="446" height="448" key="chooseDestDirectoryDialog" timestamp="1578503007531">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="732" y="317" width="446" height="448" key="chooseDestDirectoryDialog/0.27.1920.1021@0.27.1920.1021" timestamp="1578503007531" />
+    <state x="620" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1578549093047">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="620" y="365" key="com.intellij.ide.util.TipDialog/0.27.1920.1021@0.27.1920.1021" timestamp="1578549093047" />
+    <state x="525" y="236" width="869" height="602" key="find.popup" timestamp="1578503267582">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="525" y="236" width="869" height="602" key="find.popup/0.27.1920.1021@0.27.1920.1021" timestamp="1578503267582" />
+    <state x="550" y="202" width="800" height="684" key="scopes" timestamp="1578502976662">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="550" y="202" width="800" height="684" key="scopes/0.27.1920.1021@0.27.1920.1021" timestamp="1578502976662" />
+  </component>
+</project>

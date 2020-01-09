@@ -1,0 +1,130 @@
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:15
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:25
+-keep class app.cropPredictor.LoginActivity { <init>(); }
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:32
+-keep class app.cropPredictor.MainActivity { <init>(); }
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:45
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:36
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:66
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:50
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:58
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:71
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_alert_dialog_title_material.xml:57
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_screen_simple.xml:17
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout-v26/abc_screen_toolbar.xml:37
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/src/main/res/layout/content.xml:9
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/src/main/res/layout/activity_main.xml:25
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/12f07902b17573644f7798aa0e3dbf7a/res/layout/design_bottom_sheet_dialog.xml:26
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/appcompat-1.2.0-alpha01.aar/2e8035f53a17752422bf290d3d0abf8b/res/layout/abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/12f07902b17573644f7798aa0e3dbf7a/res/layout/design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/12f07902b17573644f7798aa0e3dbf7a/res/layout/design_text_input_password_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/12f07902b17573644f7798aa0e3dbf7a/res/layout/design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/12f07902b17573644f7798aa0e3dbf7a/res/layout/design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/12f07902b17573644f7798aa0e3dbf7a/res/layout/mtrl_layout_snackbar.xml:18
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/12f07902b17573644f7798aa0e3dbf7a/res/layout/design_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/12f07902b17573644f7798aa0e3dbf7a/res/layout/mtrl_layout_snackbar_include.xml:18
+# Referenced at /root/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/12f07902b17573644f7798aa0e3dbf7a/res/layout/design_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/src/main/res/layout/activity_login.xml:113
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/src/main/res/layout/activity_login.xml:98
+-keep class com.shobhitpuri.custombuttons.GoogleSignInButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/src/main/res/layout/activity_main.xml:2
+-keep class duonavigationdrawer.views.DuoDrawerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/src/main/res/layout/menu.xml:2
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/src/main/res/layout/activity_main.xml:9
+-keep class duonavigationdrawer.views.DuoMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/src/main/res/layout/fragment_main.xml:94
+-keepclassmembers class * { *** connectServer(android.view.View); }
+
+# Referenced at /root/Documents/SIH2020/Crop Predictor Android/app/src/main/res/layout/fragment_main.xml:22
+-keepclassmembers class * { *** selectImage(android.view.View); }
+

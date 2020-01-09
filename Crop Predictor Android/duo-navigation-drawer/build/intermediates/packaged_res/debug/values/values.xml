@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Duo Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="tag_content">content</string>
+    <string name="tag_menu">menu</string>
+    <declare-styleable name="DuoDrawerLayout">
+        <attr format="reference" name="menu"/>
+        <attr format="reference" name="content"/>
+        <attr format="float" name="contentScaleClosed"/>
+        <attr format="float" name="clickToCloseScale"/>
+        <attr format="float" name="contentScaleOpen"/>
+        <attr format="float" name="menuScaleClosed"/>
+        <attr format="float" name="menuScaleOpen"/>
+        <attr format="float" name="menuAlphaClosed"/>
+        <attr format="float" name="menuAlphaOpen"/>
+        <attr format="float" name="marginFactor"/>
+    </declare-styleable>
+    <declare-styleable name="DuoMenuView">
+        <attr format="reference" name="header"/>
+        <attr format="reference" name="footer"/>
+        <attr format="reference" name="background"/>
+    </declare-styleable>
+</resources>

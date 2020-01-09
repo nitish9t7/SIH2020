@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56c9d028-9683-4d45-b443-f0ffde264dfb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/app/src/main/java/com/example/werockstar/android_mongodb/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/app/src/main/java/com/example/werockstar/android_mongodb/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FlaskMongoDB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FlaskMongoDB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FlaskMongoDB" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1W1pUJY1VE6yub5fab6s9aOv6gv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="E:\Code\Android-Articles\FlaskMongoDB\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FlaskMongoDB" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FlaskMongoDB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56c9d028-9683-4d45-b443-f0ffde264dfb" name="Default" comment="" />
+      <created>1452435843566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1452435843566</updated>
+      <workItem from="1578326984866" duration="1628000" />
+      <workItem from="1578335088707" duration="7493000" />
+      <workItem from="1578394278032" duration="601000" />
+      <workItem from="1578466212028" duration="8968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="737" y="284" width="424" height="521" key="FileChooserDialogImpl" timestamp="1578466682087">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="737" y="284" width="424" height="521" key="FileChooserDialogImpl/0.27.1920.1021@0.27.1920.1021" timestamp="1578466682087" />
+    <state width="1874" height="264" key="GridCell.Tab.0.bottom" timestamp="1578475925293">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state width="1874" height="264" key="GridCell.Tab.0.bottom/0.27.1920.1021@0.27.1920.1021" timestamp="1578475925293" />
+    <state width="1874" height="264" key="GridCell.Tab.0.center" timestamp="1578475925293">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state width="1874" height="264" key="GridCell.Tab.0.center/0.27.1920.1021@0.27.1920.1021" timestamp="1578475925293" />
+    <state width="1874" height="264" key="GridCell.Tab.0.left" timestamp="1578475925293">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state width="1874" height="264" key="GridCell.Tab.0.left/0.27.1920.1021@0.27.1920.1021" timestamp="1578475925293" />
+    <state width="1874" height="264" key="GridCell.Tab.0.right" timestamp="1578475925293">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state width="1874" height="264" key="GridCell.Tab.0.right/0.27.1920.1021@0.27.1920.1021" timestamp="1578475925293" />
+    <state x="449" y="172" width="1022" height="737" key="SettingsEditor" timestamp="1578472463462">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="449" y="172" width="1022" height="737" key="SettingsEditor/0.27.1920.1021@0.27.1920.1021" timestamp="1578472463462" />
+    <state x="1227" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1578502182899">
+      <screen x="0" y="27" width="1920" height="1021" />
+    </state>
+    <state x="1227" y="365" key="com.intellij.ide.util.TipDialog/0.27.1920.1021@0.27.1920.1021" timestamp="1578502182899" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FlaskMongoDB$app.coverage" NAME="app Coverage Results" MODIFIED="1578473278513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
